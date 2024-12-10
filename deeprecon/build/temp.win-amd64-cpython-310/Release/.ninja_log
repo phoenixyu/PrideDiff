@@ -1,0 +1,11 @@
+# ninja log v5
+149	1108	7060068459883233	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cpu/dis2d/ParaDisCPU2d.obj	3cf9580ad319fddd
+37	1292	7060068460043272	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cpu/dis2d/FanFlatDisCPU2d.obj	f2b74d5e08753c4c
+1	1469	7060068460373336	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cpu/dis2d/FanArcDisCPU2d.obj	4ba33c1d651010bd
+183	3502	7060068483699938	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis2d/ParaDisCUDA2d.obj	beebfdafa9a2005a
+314	3992	7060068488593251	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis2d/FanFlatDisCUDA2d.obj	c7aef859c79777c0
+107	4293	7060068491632035	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis3d/ConeFlatDisCUDA3d.obj	c0226bdb1f847292
+225	4832	7060068496979415	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis2d/FanArcDisCUDA2d.obj	e29cae9449a01cc7
+269	5553	7060068504193332	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis3d/ConeArcDisCUDA3d.obj	c04756ae00534007
+358	5789	7060068504873488	F:/deeprec/build/temp.win-amd64-cpython-310/Release/cuda/dis3d/SpiralDisCUDA3d.obj	c8f4e469414c60cc
+73	18154	7060068630269117	F:/deeprec/build/temp.win-amd64-cpython-310/Release/interface/RadonTorch.obj	2bac2789da9ab8d3
